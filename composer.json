@@ -1,0 +1,10 @@
+{
+    "name": "repoz/greeting",
+    "type": "library",
+    "description": "A simple library to build demo for https://repoz.io",
+    "autoload": {
+        "psr-4": {
+            "Repoz\\Greeting\\": "."
+        }
+    }
+}
