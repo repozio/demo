@@ -16,7 +16,7 @@ class Greeting
      *
      * @return string
      **/
-    public function sayHello($name)
+    public static function sayHello($name)
     {
         return "Hello $name";
     }
